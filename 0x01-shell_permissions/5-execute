@@ -1,2 +1,2 @@
 #!/bin/bash
-chmood -rwxrw-r-- hello
+chmood -rwxr--r-- hello
